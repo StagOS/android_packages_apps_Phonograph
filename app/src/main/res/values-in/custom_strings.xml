@@ -3,5 +3,5 @@
 <resources>
     <string name="original_author">Penulis asli</string>
     <string name="omnirom_name">OmniROM</string>
-    <string name="write_tag_error_toast">Gagal dalam menulis tags</string>
+    <string name="write_tag_error_toast">Gagal dalam menulis tanda</string>
 </resources>
